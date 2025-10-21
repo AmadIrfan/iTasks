@@ -45,7 +45,7 @@ We welcome contributions from the community! To contribute to iTasks, follow the
 1. Fork the repository.
 
    ```bash
-   git clone
+   git clone https://github.com/AmadIrfan/iTasks.git
    ```
 
 2. Create a new branch for your feature or bug fix.

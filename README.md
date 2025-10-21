@@ -5,16 +5,30 @@ Welcome to iTasks, your all-in-one solution for seamless task management and con
 ## Features
 
 ### 1. No Sign-up Required (saving data locally)🚀
+
 Your data, your rules! iTasks prioritizes your privacy by saving data locally, ensuring a secure and seamless experience without the need for sign-ups or sign-ins.
 
 ### 2. Beautiful UI with Easy Task Management 🎨
+
 Enjoy a visually stunning user interface that makes task management a breeze. Easily add, edit, and delete tasks, ensuring a delightful user experience.
 
 ### 3. Challenge Yourself 🏆
+
 Set challenges to elevate your productivity! Whether it's a 7-day project or another goal, iTasks helps you turn challenges into achievements.
 
 ### 4. Easy Management, No Pain 🤯
+
 Experience task and challenge management without the headache. iTasks streamlines the process, making productivity enjoyable and stress-free.
+
+## Pictures
+
+![picture 1](public/pictures/itask.png)
+
+![picture 2](public/pictures/s1.png)
+
+![picture 3](public/pictures/s2.png)
+
+![picture 4](public/pictures/s3.png)
 
 ## Getting Started
 
@@ -24,23 +38,30 @@ Experience task and challenge management without the headache. iTasks streamline
 
 That's it! No need to clone the repository or open index.html manually. Dive into iTasks and boost your productivity today! 🚀 #iTasks #ProductivityRevolution
 
-
 ## How to Contribute
+
 We welcome contributions from the community! To contribute to iTasks, follow these steps:
 
 1. Fork the repository.
+
+   ```bash
+   git clone
+   ```
+
 2. Create a new branch for your feature or bug fix.
+
    ```bash
-   git checkout -b feature/your-feature-name
+      git checkout -b feature/your-feature-name
+   ```
+
 3. Make your changes and commit them.
+
    ```bash
-   git commit -m "Add your feature or bug fix description"
+      git commit -m "Add your feature or bug fix description"
+   ```
+
 4. Push your changes to your fork.
+
    ```bash
-   git push origin feature/your-feature-name
-5. Open a pull request on the main repository.
-
-## License
-This project is open source and available under the [MIT](https://github.com/alsiam/iTasks/blob/main/LICENSE) License. Feel free to use, modify, and share!
-
-
+      git push origin feature/your-feature-name
+   ```
